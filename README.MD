@@ -8,7 +8,6 @@ Demonstrates best practices in creating RESTful APIs using Spring Boot. This pro
 - **Detailed Documentation:** API documentation generated using OpenAPI.
 - **Exception Handling:** Centralized exception handling with meaningful error responses.
 - **Validation:** Input validation with detailed error messages.
-- **Logging:** Request and response logging for debugging and monitoring.
 
 ## Prerequisites
 
