@@ -36,8 +36,16 @@ mvn spring-boot:run
 Or you can run the packaged JAR file:
 
 ```bash
-java -jar target/rest4j-0.1.0.jar
+java -jar target/rest4j-0.0.1.jar
 ```
+
+###  Run the Test
+You can run the test using Maven:
+
+```bash
+mvn test
+```
+
 
 The server will start on http://localhost:8080.
 
