@@ -19,7 +19,7 @@ REST4J is a comprehensive tool designed to demonstrate best practices in creatin
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rest4j.git
+git clone https://github.com/AshutoshIWNL/rest4j.git
 cd rest4j
 ```
 ### Build the Project
