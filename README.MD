@@ -1,6 +1,6 @@
 # REST4J
 
-REST4J is a comprehensive tool designed to demonstrate best practices in creating and consuming RESTful APIs using Spring Boot. This project includes a fully functional REST server with detailed documentation and examples. REST4J serves as a reference for developers to understand REST principles and implement efficient, scalable, and maintainable web services.
+REST4J is a comprehensive tool designed to demonstrate best practices in creating RESTful APIs using Spring Boot. This project includes a fully functional REST server with detailed documentation and examples. REST4J serves as a reference for developers to understand REST principles and implement efficient, scalable, and maintainable web services.
 
 ## Features
 
